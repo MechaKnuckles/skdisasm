@@ -42,10 +42,10 @@
 		dc.l Pal_HCZ2
 		dc.w $FC20
 		dc.w $17
-		dc.l Pal_MGZ
+		dc.l Pal_MGZ1
 		dc.w $FC20
 		dc.w $17
-		dc.l Pal_MGZ
+		dc.l Pal_MGZ2
 		dc.w $FC20
 		dc.w $17
 		dc.l Pal_CNZ
